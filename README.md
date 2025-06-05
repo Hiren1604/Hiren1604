@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hiren Waghela</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Funnel+Display&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Hiren+Waghela)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
 
 🎓 I'm currently pursuing a **B.Tech in Information Technology from Dwarkadas Jivanlal Sanghvi College of Engineering**, and I'm passionate about using technology to solve real-world problems.
